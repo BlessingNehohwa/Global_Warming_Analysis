@@ -3,4 +3,5 @@ Click here : [Global Warming Analysis](https://nbviewer.org/github/BlessingNehoh
 
 This global warming project where by we used world temperature data set with the following features 
 - dt
-- AverageTemperature	AverageTemperatureUncertainty	Country
+- AverageTemperature	
+- AverageTemperatureUncertainty	Country
