@@ -7,4 +7,4 @@ This global warming project where by we used world temperature data set with the
 - AverageTemperatureUncertainty	
 - Country
 
-After analysis   that there has been a global increase trend in temperature, particularly over the last 30 years. This is due to the violent activities of a humankind.
+After analysis we found out that there has been a global increase trend in temperature, particularly over the last 30 years. This is due to the violent activities of a humankind.
